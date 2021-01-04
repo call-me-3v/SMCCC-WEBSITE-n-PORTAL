@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/call-me-3v/SMCCC-WEBSITE-n-PORTAL.git/precache-manifest.229af8b868cc7da971b3b473b858a585.js"
+  "/SMCCC-WEBSITE-n-PORTAL.git/precache-manifest.c879250d22ace93557c4f220ee59adf1.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/call-me-3v/SMCCC-WEBSITE-n-PORTAL.git/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/SMCCC-WEBSITE-n-PORTAL.git/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
