@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2909ed5c8ecaa3fb0c17c6702ae0135a",
+    "revision": "c21e745e45e4f6e6e721fb6e4f546ec6",
     "url": "/SMCCC-WEBSITE-n-PORTAL/index.html"
   },
   {
-    "revision": "2a26bdbbceb3c1218ee5",
+    "revision": "ffc87a49f5308ec29ee5",
     "url": "/SMCCC-WEBSITE-n-PORTAL/static/css/main.c8650a6a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SMCCC-WEBSITE-n-PORTAL/static/js/2.56c6daee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2a26bdbbceb3c1218ee5",
-    "url": "/SMCCC-WEBSITE-n-PORTAL/static/js/main.69b6b271.chunk.js"
+    "revision": "ffc87a49f5308ec29ee5",
+    "url": "/SMCCC-WEBSITE-n-PORTAL/static/js/main.844c9d6e.chunk.js"
   },
   {
     "revision": "dcf20057566dbbbc379d",
