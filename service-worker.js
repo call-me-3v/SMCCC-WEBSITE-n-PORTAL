@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SMCCC-WEBSITE-n-PORTAL/precache-manifest.84553c974579a846c21b12dfcb9b9903.js"
+  "/SMCCC-WEBSITE-n-PORTAL/precache-manifest.30f984b367d34ba81e33691126d79665.js"
 );
 
 self.addEventListener('message', (event) => {
