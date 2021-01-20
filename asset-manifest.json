@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/SMCCC-WEBSITE-n-PORTAL/static/css/main.4511b559.chunk.css",
-    "main.js": "/SMCCC-WEBSITE-n-PORTAL/static/js/main.321f2564.chunk.js",
-    "main.js.map": "/SMCCC-WEBSITE-n-PORTAL/static/js/main.321f2564.chunk.js.map",
+    "main.css": "/SMCCC-WEBSITE-n-PORTAL/static/css/main.19489309.chunk.css",
+    "main.js": "/SMCCC-WEBSITE-n-PORTAL/static/js/main.23b3e4fa.chunk.js",
+    "main.js.map": "/SMCCC-WEBSITE-n-PORTAL/static/js/main.23b3e4fa.chunk.js.map",
     "runtime-main.js": "/SMCCC-WEBSITE-n-PORTAL/static/js/runtime-main.7c29398f.js",
     "runtime-main.js.map": "/SMCCC-WEBSITE-n-PORTAL/static/js/runtime-main.7c29398f.js.map",
-    "static/js/2.bb0bfdd5.chunk.js": "/SMCCC-WEBSITE-n-PORTAL/static/js/2.bb0bfdd5.chunk.js",
-    "static/js/2.bb0bfdd5.chunk.js.map": "/SMCCC-WEBSITE-n-PORTAL/static/js/2.bb0bfdd5.chunk.js.map",
+    "static/js/2.799e387c.chunk.js": "/SMCCC-WEBSITE-n-PORTAL/static/js/2.799e387c.chunk.js",
+    "static/js/2.799e387c.chunk.js.map": "/SMCCC-WEBSITE-n-PORTAL/static/js/2.799e387c.chunk.js.map",
     "index.html": "/SMCCC-WEBSITE-n-PORTAL/index.html",
-    "precache-manifest.922f50494dbcf688c51776d6b7293379.js": "/SMCCC-WEBSITE-n-PORTAL/precache-manifest.922f50494dbcf688c51776d6b7293379.js",
+    "precache-manifest.d752663b88c54fd60f1fb208670ecd73.js": "/SMCCC-WEBSITE-n-PORTAL/precache-manifest.d752663b88c54fd60f1fb208670ecd73.js",
     "service-worker.js": "/SMCCC-WEBSITE-n-PORTAL/service-worker.js",
-    "static/css/main.4511b559.chunk.css.map": "/SMCCC-WEBSITE-n-PORTAL/static/css/main.4511b559.chunk.css.map",
-    "static/js/2.bb0bfdd5.chunk.js.LICENSE.txt": "/SMCCC-WEBSITE-n-PORTAL/static/js/2.bb0bfdd5.chunk.js.LICENSE.txt",
+    "static/css/main.19489309.chunk.css.map": "/SMCCC-WEBSITE-n-PORTAL/static/css/main.19489309.chunk.css.map",
+    "static/js/2.799e387c.chunk.js.LICENSE.txt": "/SMCCC-WEBSITE-n-PORTAL/static/js/2.799e387c.chunk.js.LICENSE.txt",
     "static/media/archbishop.jpg": "/SMCCC-WEBSITE-n-PORTAL/static/media/archbishop.e4cf1f91.jpg",
     "static/media/bg4.jpg": "/SMCCC-WEBSITE-n-PORTAL/static/media/bg4.aa323df2.jpg",
     "static/media/bg7.jpg": "/SMCCC-WEBSITE-n-PORTAL/static/media/bg7.a3910eff.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7c29398f.js",
-    "static/js/2.bb0bfdd5.chunk.js",
-    "static/css/main.4511b559.chunk.css",
-    "static/js/main.321f2564.chunk.js"
+    "static/js/2.799e387c.chunk.js",
+    "static/css/main.19489309.chunk.css",
+    "static/js/main.23b3e4fa.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f6a82bf7c0f7b1bb9870b47d07e5c6e",
+    "revision": "b451deb8c068a08fce30dc84a34fced2",
     "url": "/SMCCC-WEBSITE-n-PORTAL/index.html"
   },
   {
-    "revision": "f2b56d9e7a70262014ee",
-    "url": "/SMCCC-WEBSITE-n-PORTAL/static/css/main.4511b559.chunk.css"
+    "revision": "3a5dd511ca2fb011af06",
+    "url": "/SMCCC-WEBSITE-n-PORTAL/static/css/main.19489309.chunk.css"
   },
   {
-    "revision": "90a0189e031c8aa00357",
-    "url": "/SMCCC-WEBSITE-n-PORTAL/static/js/2.bb0bfdd5.chunk.js"
+    "revision": "146e2c86a911deafce73",
+    "url": "/SMCCC-WEBSITE-n-PORTAL/static/js/2.799e387c.chunk.js"
   },
   {
     "revision": "5d8ed9bc3aa5af1a7ba683d956090c41",
-    "url": "/SMCCC-WEBSITE-n-PORTAL/static/js/2.bb0bfdd5.chunk.js.LICENSE.txt"
+    "url": "/SMCCC-WEBSITE-n-PORTAL/static/js/2.799e387c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2b56d9e7a70262014ee",
-    "url": "/SMCCC-WEBSITE-n-PORTAL/static/js/main.321f2564.chunk.js"
+    "revision": "3a5dd511ca2fb011af06",
+    "url": "/SMCCC-WEBSITE-n-PORTAL/static/js/main.23b3e4fa.chunk.js"
   },
   {
     "revision": "dcf20057566dbbbc379d",
